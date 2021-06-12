@@ -7,7 +7,7 @@ import FormControl from '@material-ui/core/FormControl';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import Button from '@material-ui/core/Button';
 import { Link } from 'react-router-dom';
-import LatihanSoal2 from '../Pages/LatihanSoal2';
+
 
 
 const useStyles = makeStyles((theme) => ({
